@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Enviroment
+comment1.params=initialAgents\ initialObstacles
+comment1.target=Enviroment(int,\ int)
+comment2.params=initialAgents\ initialObstacles
+comment2.target=Enviroment\ getInstance(int,\ int)
+comment3.params=
+comment3.target=Enviroment\ getInstance()
+comment4.params=
+comment4.target=void\ update()
+comment5.params=
+comment5.target=void\ updateAgents()
+comment6.params=
+comment6.target=void\ updateObstacles()
+comment7.params=
+comment7.target=void\ updateConstants()
+comment8.params=value\ places
+comment8.target=double\ round(double,\ int)
+numComments=9

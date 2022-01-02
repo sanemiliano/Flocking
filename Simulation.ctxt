@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Simulation
+comment1.params=
+comment1.target=Simulation()
+comment2.params=
+comment2.target=void\ simulate()
+comment3.params=
+comment3.target=void\ runSimulation()
+comment4.params=
+comment4.target=void\ updateKeystrokes()
+comment5.params=delta
+comment5.target=void\ changeConst(double)
+numComments=6
